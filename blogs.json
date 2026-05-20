@@ -4776,6 +4776,13 @@
             "site_url": "https://www.zoesmith.io/",
             "feed_url": "https://www.zoesmith.io/index.xml",
             "x_url": "https://x.com/zoejessica"
+          },
+          {
+            "title": "Yuedu Reader Engineering",
+            "author": "Chang Jui-Lin",
+            "site_url": "https://chang-jui-lin.github.io/Yuedu-reader/",
+            "feed_url": "https://chang-jui-lin.github.io/Yuedu-reader/feed.xml",
+            "github_url": "https://github.com/CHANG-JUI-LIN"
           }
         ]
       },
@@ -6402,13 +6409,6 @@
             "site_url": "https://www.twitch.tv/subdigital",
             "feed_url": "https://twitchrss.appspot.com/vod/subdigital",
             "x_url": "https://x.com/subdigital"
-          },
-          {
-            "title": "Yuedu Reader Engineering",
-            "author": "Chang Jui-Lin",
-            "site_url": "https://chang-jui-lin.github.io/Yuedu-reader/",
-            "feed_url": "https://chang-jui-lin.github.io/Yuedu-reader/feed.xml",
-            "github_url": "https://github.com/CHANG-JUI-LIN"
           }
         ]
       }
